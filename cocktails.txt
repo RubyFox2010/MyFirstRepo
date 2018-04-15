@@ -1,0 +1,2 @@
+vim cocktails.txt
+i My favorite cocktail is sangria.
